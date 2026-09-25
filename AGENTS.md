@@ -64,5 +64,5 @@ Perform a learning review:
 6. When ClickUp access is available and durable learning actually occurred, update the appropriate learning system in the same work session when practical.
 7. If no reusable learning occurred, make no cosmetic ClickUp update.
 
-If ClickUp is unavailable, do not invent or claim a knowledge-base update. Preserve a concise learning candidate in the handoff so a later authorized session can evaluate it.
+If ClickUp is unavailable **and the learning review identified a genuine reusable candidate**, do not invent or claim a knowledge-base update; preserve that candidate concisely in the normal handoff or work record so a later authorized session can evaluate it. If no reusable learning was identified, record nothing.
 
