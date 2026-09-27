@@ -32,6 +32,18 @@ Update registers, relevant synthesis, hypotheses, `research-state.md`, open ques
 
 Do not delete failed, rejected, or superseded reasoning. Use decision statuses: active, superseded, rejected, experimental, deferred. Preserve why it changed, what evidence changed it, and what it supersedes.
 
+## Work Radar continuity
+
+For meaningful unfinished research or a concrete follow-up, use ClickUp **Work Radar > Workstreams**. With authorized access, read the current [Work Radar System](https://app.clickup.com/t/17tj301a0c4) protocol and search before creating a card. Match the research objective, not each source, post, or chat. Ordinary questions and completed one-offs need no card.
+
+Link the current run, `research-state.md`, registers, and the decision being supported. Keep observations, confidence, and historical reasoning in their existing records; Work Radar is not another source register or permission to repeat a completed sweep. The learning loop below remains separate. This public repository must not receive private ClickUp contents or sensitive operational data.
+
+Keep the card's objective, completion criteria, last verified state, current operation, next action, evidence links, and blockers concise. Record a start before substantial work, meaningful milestones during long research, and a clean closing checkpoint on completion, intentional pause, waiting, or blocking—not every response.
+
+Before recovering a stale/unclosed operation, inspect current run artifacts, repository/PR state, and any concurrent execution. Silence does not establish failure or completion. Mark Done only when the research objective's criteria are verified or the user confirms completion; an investigation ending does not settle every downstream decision. Tracking does not expand publishing, spending, or other authority.
+
+Include the workstream/protocol reference and precise resume point in agent handoffs. If ClickUp is unavailable, continue safe authorized work and leave the checkpoint in the existing run/research-state record or handoff. Do not invent a card update, monitor, or scheduled review.
+
 ## Cross-project ClickUp learning loop
 
 This repository participates in Jeremy's durable ClickUp learning architecture. This rule applies to substantive planning, implementation, debugging, design, game, product, research, content, release, and review work. Repository-specific ClickUp sources or boundaries already documented in this file remain in force; this section adds cross-project learning behavior rather than replacing them.
