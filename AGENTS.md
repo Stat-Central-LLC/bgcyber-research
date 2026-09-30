@@ -32,49 +32,9 @@ Update registers, relevant synthesis, hypotheses, `research-state.md`, open ques
 
 Do not delete failed, rejected, or superseded reasoning. Use decision statuses: active, superseded, rejected, experimental, deferred. Preserve why it changed, what evidence changed it, and what it supersedes.
 
-## Work Radar continuity
+## Learning reference
+Use task-relevant learning under the owner's canonical Learning Governance page through an authorized connection. Learning supplies reusable judgment, not broader authority or a mandatory read of every domain.
 
-For meaningful unfinished research or a concrete follow-up, use ClickUp **Work Radar > Workstreams**. With authorized access, read the current [Work Radar System](https://app.clickup.com/t/17tj301a0c4) protocol and search before creating a card. Match the research objective, not each source, post, or chat. Ordinary questions and completed one-offs need no card.
+Keep current work and required verification evidence in this repository's existing source-of-truth records. Automatic Work Radar and duplicate generic work-audit logging are retired; project-specific safety, approval, operational, test, release, issue, PR and recovery records remain.
 
-Link the current run, `research-state.md`, registers, and the decision being supported. Keep observations, confidence, and historical reasoning in their existing records; Work Radar is not another source register or permission to repeat a completed sweep. The learning loop below remains separate. This public repository must not receive private ClickUp contents or sensitive operational data.
-
-Keep the card's objective, completion criteria, last verified state, current operation, next action, evidence links, and blockers concise. Record a start before substantial work, meaningful milestones during long research, and a clean closing checkpoint on completion, intentional pause, waiting, or blocking—not every response.
-
-Before recovering a stale/unclosed operation, inspect current run artifacts, repository/PR state, and any concurrent execution. Silence does not establish failure or completion. Mark Done only when the research objective's criteria are verified or the user confirms completion; an investigation ending does not settle every downstream decision. Tracking does not expand publishing, spending, or other authority.
-
-Include the workstream/protocol reference and precise resume point in agent handoffs. If ClickUp is unavailable, continue safe authorized work and leave the checkpoint in the existing run/research-state record or handoff. Do not invent a card update, monitor, or scheduled review.
-
-## Cross-project ClickUp learning loop
-
-This repository participates in Jeremy's durable ClickUp learning architecture. This rule applies to substantive planning, implementation, debugging, design, game, product, research, content, release, and review work. Repository-specific ClickUp sources or boundaries already documented in this file remain in force; this section adds cross-project learning behavior rather than replacing them.
-
-### Before substantive work
-
-When ClickUp access is available:
-
-1. Read the ClickUp document **`00 AI Learning Router — Global Standard`**, including **`START HERE — Global Learning Routing Standard`** and **`Learning Retrieval, Promotion & Freshness Governance`**.
-2. Evaluate the current **task**, not merely the repository name, against all active learning domains: **`game dev lessons`**, **`Software & Systems Learning`**, **`WCWD AI Learning`**, and **`Content & Publishing Learning`**. A task may legitimately use more than one domain.
-3. Respect domain boundaries. In particular, use WCWD-specific knowledge only when the current work is actually WCWD work; do not import WCWD operational facts into unrelated work.
-4. Open the relevant domain START HERE/task router and retrieve only the smallest sufficient canonical read set, normally a few directly applicable pages rather than an entire space.
-5. Treat current user instructions, the active issue, current repository code/tests/docs, and project-specific source-of-truth artifacts as more specific authority when they intentionally differ from reusable learning.
-
-ClickUp supplies reusable judgment; it does **not** replace inspection of the current repository state.
-
-### During work
-
-Use applicable prior lessons to avoid rediscovering solved problems. Treat user feedback, test results, production/review outcomes, successful approaches, and failed approaches as evidence. Do not turn one project observation into a universal rule without support.
-
-### Before closing substantial work
-
-Perform a learning review:
-
-1. Identify any genuinely reusable correction, win, miss, technical mechanism, product/design insight, content/audience insight, workflow improvement, or validation lesson.
-2. Search the relevant ClickUp learning system before creating anything new.
-3. Prefer strengthening or correcting existing canonical guidance when the underlying mechanism is the same. Use a candidate / needs-validation state when the evidence is useful but not mature.
-4. Preserve appropriate scope, evidence/provenance, confidence, freshness/last-validated context, and known exceptions. Positive evidence is first-class learning, not just failures.
-5. Keep project-only facts, temporary decisions, code dumps, secrets, sensitive information, and chronological work logs out of cross-project learning.
-6. When ClickUp access is available and durable learning actually occurred, update the appropriate learning system in the same work session when practical.
-7. If no reusable learning occurred, make no cosmetic ClickUp update.
-
-If ClickUp is unavailable **and the learning review identified a genuine reusable candidate**, do not invent or claim a knowledge-base update; preserve that candidate concisely in the normal handoff or work record so a later authorized session can evaluate it. If no reusable learning was identified, record nothing.
-
+These repository instructions apply to work performed in this repository. Reading this repository as a factual source for another project does not start its implementation, publishing, release, tracker, or learning-maintenance workflow.
