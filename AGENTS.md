@@ -26,7 +26,7 @@ Consider quantity, source quality, recency, local transferability, contradiction
 
 ## After researching
 
-Update registers, relevant synthesis, hypotheses, `research-state.md`, open questions, and decision log if a decision changed. Create a dated run with plan, findings, sources, and retrospective for substantial work. Add a ClickUp task only for a concrete next action; include the supporting repository path/URL. If the retrospective identifies a durable process improvement, update this file or the relevant prompt.
+Update registers, relevant synthesis, hypotheses, `research-state.md`, open questions, and decision log if a decision changed. Create a dated run with plan, findings, sources, and retrospective for substantial work. Add a ClickUp task only for a concrete next action; include the supporting repository path/URL. If the retrospective identifies a durable process improvement, capture an evidence-backed, scoped learning candidate in the normal research record. A reviewed practice may improve research within existing authority. Changing this instruction file, an operating prompt, roles, permissions, transport, spending, publication authority, or safety gates requires a separate attributable owner-approved policy change and coordinated canonical update/readback. A retrospective alone does not authorize self-editing instructions.
 
 ## Historical integrity
 
