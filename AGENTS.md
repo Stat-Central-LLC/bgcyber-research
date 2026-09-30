@@ -32,6 +32,10 @@ Update registers, relevant synthesis, hypotheses, `research-state.md`, open ques
 
 Do not delete failed, rejected, or superseded reasoning. Use decision statuses: active, superseded, rejected, experimental, deferred. Preserve why it changed, what evidence changed it, and what it supersedes.
 
+## Safe recovery and completion evidence
+
+Before recovering a stale/unclosed operation, inspect current run artifacts, repository/PR state, and any concurrent execution. Silence does not establish failure or completion. Report the research objective complete only when its criteria are verified or the user confirms completion; an investigation ending does not settle every downstream decision. Recovery does not expand publishing, spending, or other authority.
+
 ## Learning reference
 Use task-relevant learning under the owner's canonical Learning Governance page through an authorized connection. Learning supplies reusable judgment, not broader authority or a mandatory read of every domain.
 
