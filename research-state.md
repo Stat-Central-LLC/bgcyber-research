@@ -1,6 +1,7 @@
 # Research State
 
-**Last updated:** 2026-09-10  
+**Last updated:** 2026-10-06 (baseline-reference reconciliation; no new research or performance collection)
+
 **Current objective:** determine what BG Cyber Deals should become on social media so Bowling Green residents voluntarily follow it and local merchants value participation.
 
 ## Business context
@@ -23,7 +24,7 @@ The 141-observation Bowling Green Facebook sample includes strong engagement aro
 - The Facebook sample is not yet saturated (29 sources vs. a 40-source target) and is not proof of consumer conversion.
 - The current audience is too invitation-driven to establish organic content-market fit.
 - Instagram, LinkedIn, analogues in comparable cities, merchant resharing, and offer framing need structured evidence.
-- No internal performance data has been ingested.
+- A Facebook baseline was captured on 2026-09-10 for Aug 13–Sep 9 in `performance/experiment-results.md` and `performance/metrics.csv`. It does not attribute follows to invitation versus organic discovery. No controlled experiment results have been recorded.
 
 ## Priority backlog
 
